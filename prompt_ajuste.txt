@@ -1,0 +1,5 @@
+Mantenha o mesmo código e implemente o seguinte: Realize dois ajustes exponenciais: o primeiro para o intervalo de 100 a 750 s, extrapolando esta curva até 1150 s; o segundo para o intervalo de 1020 s até o final dos dados, extrapolando esta curva até 800 s.
+
+
+Mantenha o mesmo código e implemente o seguinte: Adicione uma linha vertical no tempo de 1060 s que intercepte ambas as curvas de ajuste. Indique com valores numéricos as temperaturas de interseção desta linha vertical com cada uma das curvas ajustadas, marcando estas interseções com setas indicativas para clareza.
+O gráfico deve apresentar claramente todos os dados experimentais quanto as curvas ajustadas e extrapoladas, com legenda adequada para todos os elementos.
